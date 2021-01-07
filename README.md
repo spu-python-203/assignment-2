@@ -17,5 +17,11 @@ You will be practicing python data types, objects, mutability, and object method
 - Object
 - Mutability
 - Object methods
+- Strings
+- Int and float
+- Sets
+- Tuples
+- Lists
+- Dictionaries
 
 Best of luck :smile:.
